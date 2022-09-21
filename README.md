@@ -1,3 +1,5 @@
+this is fork from epool86/calculateshopee
+
 # calculateshopee
 
 Just open shopee web and login, then copy & paste this javascript, lastly simply run calculate(0);
